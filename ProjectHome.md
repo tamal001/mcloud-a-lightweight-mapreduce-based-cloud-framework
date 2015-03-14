@@ -1,0 +1,3 @@
+Mcloud is a lightweight open source MapReduce based framework designed for Android Smartphone. The framework allows application developers to add their applications for mobile devices, hiding the underlying complex implementation.
+
+MCloud is designed to address the core problems, complexities and identifying different obstacles and opportunities in Mobile Cloud Computing environment. It provides an abstraction that will accede to development of other application without the need to handle underlying problems of distributed computing.
